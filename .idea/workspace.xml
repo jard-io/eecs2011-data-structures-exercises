@@ -2,12 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="745d89ea-ce7a-46b5-a033-cbcf1526ce10" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/Chapter 3/linked-list-implementation/src/SingularlyLinkedList.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Data Structures and Algorithms in Java, 6th Edition.pdf" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/Exercises.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/Exercises.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Chapter 3/linked-list-implementation/src/CircularlyLinkedList.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Chapter 3/linked-list-implementation/src/LinkedList.java" beforeDir="false" afterPath="$PROJECT_DIR$/Chapter 3/linked-list-implementation/src/LinkedList.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
